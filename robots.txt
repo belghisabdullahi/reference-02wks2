@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://belghisabdullahi.github.io/reference-02wks2/sitemap.xml
